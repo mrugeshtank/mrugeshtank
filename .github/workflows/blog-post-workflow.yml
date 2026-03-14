@@ -22,5 +22,5 @@ jobs:
         with:
           feed_list: "https://idiotswithios.com/feed/"
           max_post_count: 3
-          template: "- [$title]($url)"
+          template: "$newline- [$title]($url)"
           commit_message: "chore: update README with latest blog posts"

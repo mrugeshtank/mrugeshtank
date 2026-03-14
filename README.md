@@ -27,8 +27,8 @@
 ---
 
 ## ✍️ Latest from my blog
-<!-- BLOG-POST-LIST:START -->- [ARKit 2026: The Truth About This Spectacular New Feature](https://idiotswithios.com/arkit-2026-truth-spectacular-new-feature/)- [Vision Framework iOS: A Simple Way to Make Killer Apps](https://idiotswithios.com/vision-framework-ios-a-simple-way-to-make-killer-apps/)- [Xcode Cloud: The Ultimate Way to Secure Your Builds](https://idiotswithios.com/xcode-cloud-ultimate-way-secure-builds/)<!-- BLOG-POST-LIST:END -->
-*(Auto-updated via GitHub Actions)*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles at idiotswithios.com](https://idiotswithios.com)
 
