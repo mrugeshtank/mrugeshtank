@@ -28,9 +28,9 @@
 
 ## ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [iOS 26 SDK Migration Guide: What Every App Needs to Update](https://idiotswithios.com/ios-26-sdk-migration-guide-what-every-app-needs-to-update/?utm_source=rss&utm_medium=rss&utm_campaign=ios-26-sdk-migration-guide-what-every-app-needs-to-update)
 - [ARKit 2026: The Truth About This Spectacular New Feature](https://idiotswithios.com/arkit-2026-truth-spectacular-new-feature/?utm_source=rss&utm_medium=rss&utm_campaign=arkit-2026-truth-spectacular-new-feature)
-- [Vision Framework iOS: A Simple Way to Make Killer Apps](https://idiotswithios.com/vision-framework-ios-a-simple-way-to-make-killer-apps/?utm_source=rss&utm_medium=rss&utm_campaign=vision-framework-ios-a-simple-way-to-make-killer-apps)
-- [Xcode Cloud: The Ultimate Way to Secure Your Builds](https://idiotswithios.com/xcode-cloud-ultimate-way-secure-builds/?utm_source=rss&utm_medium=rss&utm_campaign=xcode-cloud-ultimate-way-secure-builds)<!-- BLOG-POST-LIST:END -->
+- [Vision Framework iOS: A Simple Way to Make Killer Apps](https://idiotswithios.com/vision-framework-ios-a-simple-way-to-make-killer-apps/?utm_source=rss&utm_medium=rss&utm_campaign=vision-framework-ios-a-simple-way-to-make-killer-apps)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles at idiotswithios.com](https://idiotswithios.com)
 
