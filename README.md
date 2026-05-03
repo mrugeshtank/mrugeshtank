@@ -28,9 +28,9 @@
 
 ## ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://idiotswithios.com/ios-privacy-manifest-required-reasons-apis-compliance-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=ios-privacy-manifest-required-reasons-apis-compliance-checklist)
 - [iOS 26 SDK Migration Guide: What Every App Needs to Update](https://idiotswithios.com/ios-26-sdk-migration-guide-what-every-app-needs-to-update/?utm_source=rss&utm_medium=rss&utm_campaign=ios-26-sdk-migration-guide-what-every-app-needs-to-update)
-- [ARKit 2026: The Truth About This Spectacular New Feature](https://idiotswithios.com/arkit-2026-truth-spectacular-new-feature/?utm_source=rss&utm_medium=rss&utm_campaign=arkit-2026-truth-spectacular-new-feature)
-- [Vision Framework iOS: A Simple Way to Make Killer Apps](https://idiotswithios.com/vision-framework-ios-a-simple-way-to-make-killer-apps/?utm_source=rss&utm_medium=rss&utm_campaign=vision-framework-ios-a-simple-way-to-make-killer-apps)<!-- BLOG-POST-LIST:END -->
+- [ARKit 2026: The Truth About This Spectacular New Feature](https://idiotswithios.com/arkit-2026-truth-spectacular-new-feature/?utm_source=rss&utm_medium=rss&utm_campaign=arkit-2026-truth-spectacular-new-feature)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles at idiotswithios.com](https://idiotswithios.com)
 
