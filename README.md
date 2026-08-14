@@ -28,9 +28,9 @@
 
 ## ✍️ Latest from my blog
 <!-- BLOG-POST-LIST:START -->
+- [Swift 6 Strict Concurrency: Common Migration Mistakes and How to Fix Them](https://idiotswithios.com/swift-6-strict-concurrency-migration-mistakes/?utm_source=rss&utm_medium=rss&utm_campaign=swift-6-strict-concurrency-migration-mistakes)
 - [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://idiotswithios.com/ios-privacy-manifest-required-reasons-apis-compliance-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=ios-privacy-manifest-required-reasons-apis-compliance-checklist)
-- [iOS 26 SDK Migration Guide: What Every App Needs to Update](https://idiotswithios.com/ios-26-sdk-migration-guide-what-every-app-needs-to-update/?utm_source=rss&utm_medium=rss&utm_campaign=ios-26-sdk-migration-guide-what-every-app-needs-to-update)
-- [ARKit 2026: The Truth About This Spectacular New Feature](https://idiotswithios.com/arkit-2026-truth-spectacular-new-feature/?utm_source=rss&utm_medium=rss&utm_campaign=arkit-2026-truth-spectacular-new-feature)<!-- BLOG-POST-LIST:END -->
+- [iOS 26 SDK Migration Guide: What Every App Needs to Update](https://idiotswithios.com/ios-26-sdk-migration-guide-what-every-app-needs-to-update/?utm_source=rss&utm_medium=rss&utm_campaign=ios-26-sdk-migration-guide-what-every-app-needs-to-update)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles at idiotswithios.com](https://idiotswithios.com)
 
